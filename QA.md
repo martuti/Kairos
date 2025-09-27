@@ -33,3 +33,12 @@ Kairos does not provide backup, so make sure to keep your device safe.
 ### 6️⃣ Is Kairos free?  
 Yes! 🎉 **Kairos is completely free** — there are **no paid features**, **no subscriptions**, and **no in-app purchases**.  
 All features are available to every user at no cost.
+
+---
+
+## 📬 Contact / Support  
+
+If you have any questions, feedback, or suggestions about Kairos, feel free to reach out to us:  
+📧 **a.martuti@hotmail.com**
+
+We’ll be happy to hear from you!

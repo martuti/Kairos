@@ -1,6 +1,6 @@
 # Kairos
 
-> Make memories
+> Keep your yesterdays close
 
 O **Kairos** é um app que...
 

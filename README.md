@@ -46,9 +46,8 @@ This project was developed using Apple’s ecosystem tools:
 
 For more information, please check:  
 
-(add perguntas e respostas desse jeito)
-- [**Support Page**]()
-- [**Privacy Policy**]()
+* [**Questions and Answers**](./QA.md)
+* [**Política de Privacidade**](./Privacy.md)
   
 --- 
 

@@ -1,5 +1,10 @@
 # Kairos  
 
+![iOS](https://img.shields.io/badge/iOS-17-blue)
+![Swift](https://img.shields.io/badge/Swift-5.9-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 > **Keep your yesterdays close.**  
 
 **Kairos** is the app that turns your stories into unforgettable memories, always accompanied by the soundtrack of your life. Every photo, every song, every memory finds a new place to live — within you and in the world.  
@@ -15,6 +20,14 @@ With Kairos, your stories are never forgotten: they become part of a special jou
 - **🎙️ Give voice to your soundtrack:** add favorite songs with Siri, quickly and effortlessly;  
 - **🌍 Share your emotions:** post your weekly collages and inspire the world around you;  
 - **🕰️ Relive your journey:** access your history and rediscover the moments that shaped you.  
+
+---
+## 🚀 Getting Started
+
+1. Download Kairos from the App Store.
+2. Create your first memory by selecting photos and songs.
+3. Organize your stories into collages or time capsules.
+4. Share your creations with friends or revisit them anytime.
 
 ---
 
@@ -33,7 +46,8 @@ This project was developed using Apple’s ecosystem tools:
 
 For more information, please check:  
 
-- [**Support Page**]()  
+(add perguntas e respostas desse jeito)
+- [**Support Page**]()
 - [**Privacy Policy**]()
   
 --- 

@@ -45,7 +45,7 @@ This project was developed using Apple’s ecosystem tools:
 For more information, please check:  
 
 * [**Questions and Answers**](./QA.md)
-* [**Política de Privacidade**](./Privacy.md)
+* [**Privacy Policy**](./Privacy.md)
   
 --- 
 

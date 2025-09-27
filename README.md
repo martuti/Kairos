@@ -1,11 +1,8 @@
 # Kairos  
-
+> **Keep your yesterdays close.**  
 ![iOS](https://img.shields.io/badge/iOS-18-blue)
 ![iOS](https://img.shields.io/badge/iOS-26-blue)
 ![Swift](https://img.shields.io/badge/Swift-6.2-orange)
-
-
-> **Keep your yesterdays close.**  
 
 **Kairos** is the app that turns your stories into unforgettable memories, always accompanied by the soundtrack of your life. Every photo, every song, every memory finds a new place to live — within you and in the world.  
 

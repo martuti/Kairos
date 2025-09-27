@@ -2,11 +2,9 @@
 
 > **Keep your yesterdays close.**  
 
-**Kairos** is the app that turns your stories into unforgettable memories, always accompanied by the soundtrack of your life.  
-Every photo, every song, every memory finds a new place to live — within you and in the world.  
+**Kairos** is the app that turns your stories into unforgettable memories, always accompanied by the soundtrack of your life. Every photo, every song, every memory finds a new place to live — within you and in the world.  
 
-With Kairos, your stories are never forgotten: they become part of a special journey you can revisit anytime you want.  
-Relive precious moments, organize your past, and share your creations with the world. Here’s how:  
+With Kairos, your stories are never forgotten: they become part of a special journey you can revisit anytime you want. Relive precious moments, organize your past, and share your creations with the world. Here’s how:  
 
 ---
 

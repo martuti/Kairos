@@ -1,7 +1,5 @@
 # ❓ Q&A – Kairos
 
----
-
 ### 1️⃣ What is Kairos?  
 Kairos is an app that helps you **save your memories and the soundtrack of your life** by creating **collages, time capsules, and a personal timeline** you can revisit anytime.  
 

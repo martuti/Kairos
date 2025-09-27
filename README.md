@@ -1,5 +1,6 @@
 # Kairos  
-> **Keep your yesterdays close.**  
+> **Keep your yesterdays close.**
+
 ![iOS](https://img.shields.io/badge/iOS-18-blue)
 ![iOS](https://img.shields.io/badge/iOS-26-blue)
 ![Swift](https://img.shields.io/badge/Swift-6.2-orange)
